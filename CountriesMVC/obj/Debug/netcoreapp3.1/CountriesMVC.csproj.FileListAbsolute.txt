@@ -1,0 +1,13 @@
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.exe
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.deps.json
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.runtimeconfig.json
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.runtimeconfig.dev.json
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.dll
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\bin\Debug\netcoreapp3.1\CountriesMVC.pdb
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.csprojAssemblyReference.cache
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.AssemblyInfoInputs.cache
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.AssemblyInfo.cs
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.dll
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.pdb
+D:\GrandCircus\Week4\MVC Countries\CountriesMVC\CountriesMVC\obj\Debug\netcoreapp3.1\CountriesMVC.genruntimeconfig.cache
